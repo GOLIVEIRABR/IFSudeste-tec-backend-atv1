@@ -7,4 +7,4 @@ Esta é a primeira atividade da disciplina de **Tecnologias Backend** do curso d
 
 Maiores informações estão no vídeo abaixo:
 
-[![Assista o vídeo](http://img.youtube.com/vi/_-Ptzi9DCoQ/0.jpg)](http://www.youtube.com/watch?v=_-Ptzi9DCoQ "IFSudeste - Espec. Des. Web e Mobile - Tecnologias Frontend - Atv 2.")
+[![Assista o vídeo](http://img.youtube.com/vi/_-Ptzi9DCoQ/0.jpg)](https://youtu.be/mstSeMCZAVA "IFSudeste - Espec. Des. Web e Mobile - Tecnologias Backend - Atv 1.")
